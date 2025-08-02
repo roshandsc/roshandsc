@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Shetty</h1>
-<h3 align="center">Aspiring Data Scientist | 💻 Python, C/C++, JavaScript | 📊 Machine Learning & DSA Enthusiast | 🌐 Tech Explorer |Learning. Building. Growing.</h3>
+<h3 align="center">Aspiring Data Scientist | 💻 Python, C/C++ | 📊 Machine Learning & DSA Enthusiast | 🌐 Tech Explorer |Learning. Building. Growing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshandsc&label=Profile%20views&color=0e75b6&style=flat" alt="roshandsc" /> </p>
 
